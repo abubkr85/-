@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">
+        تسمح هذه الخدمة للتطبيق بتنفيذ حركات اللمس والسحب على الشاشة بناءً على إيماءات الرأس التي يكشفها (لف يمين/يسار، رفع/خفض، غمزة عين).
+    </string>
+</resources>
